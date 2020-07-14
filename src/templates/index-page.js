@@ -68,7 +68,7 @@ export const IndexPageTemplate = ({
           height: '100px',
           display: 'inline-block',
           backgroundColor: '#f14668',
-          width:'200px',
+          width:'250px',
           borderRadius:'100px',
           color:'#fff',
           webkitBoxShadow: '20px 20px 100px #ccc',
