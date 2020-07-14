@@ -23,26 +23,26 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        height: '100vh',
+        
       }}
     >
-      <div
+      <div className="container"
         style={{
           display: 'flex',
+          
           height: '150px',
           lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
+          justifyContent: 'flex-start',
+         
           flexDirection: 'column',
         }}
       >
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+            alignItems: 'flex-end',
+            color: '#363636',
             lineHeight: '1',
             padding: '0.25em',
           }}
@@ -50,18 +50,36 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-weight-semibold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+            
+            color: '#282828',
             lineHeight: '1',
             padding: '0.25em',
           }}
         >
           {subheading}
         </h3>
+        <br/>
+        <a 
+        className="button is-large" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandeepsirfan@gmail.com" 
+        target="_blank"
+        style={{
+          height: '100px',
+          display: 'inline-block',
+          backgroundColor: '#f14668',
+          width:'200px',
+          borderRadius:'100px',
+          color:'#fff',
+          webkitBoxShadow: '20px 20px 100px #ccc',
+          MozBoxShadow:    '20px 20px 100px #ccc',
+          BoxShadow:        ' 20px 20px 100px #ccc',
+          zIndex:'999'
+    
+        }}
+        >
+                     <p><strong>Share your story</strong> </p>
+        </a>
       </div>
     </div>
     <section className="section section--gradient">
@@ -89,9 +107,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
+
                   </div>
                 </div>
                 <div className="column is-12">

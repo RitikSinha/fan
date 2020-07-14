@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Sandeep Maheshwari',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Welcome to the community of change makers. A platform to share experience and inspire others by your stories.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
