@@ -62,7 +62,7 @@ export const IndexPageTemplate = ({
         </h3>
         <br/>
         <a 
-        className="button is-large" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandeepsirfan@gmail.com" 
+        className="button is-medium" href="mailto:sandeepsirfan@gmail.com?Subject=Story%20Time!" 
         target="_blank"
         style={{
           height: '100px',
@@ -74,7 +74,7 @@ export const IndexPageTemplate = ({
           webkitBoxShadow: '20px 20px 100px #ccc',
           MozBoxShadow:    '20px 20px 100px #ccc',
           BoxShadow:        ' 20px 20px 100px #ccc',
-          zIndex:'999'
+          zIndex:'100'
     
         }}
         >
