@@ -1,56 +1,47 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: A community supporting & encouraging millions together.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: How it works?
+subheading: Share your learnings and experiences of life.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Note
+  description: " This website is a fan community and it has no connection with
+    Sandeep Maheshwari or any of his team members in any way or form."
+description: You can share your  learnings and experiences by following these steps.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/01.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Step-1 Everyone has their own life experience and story. Many of them
+        want to share but have no one to listen to and understand, many are even
+        afraid of sharing, fearing judgment, bullying, and made fun of. The
+        community is for reaching out to your voice, where there is no judgment
+        no-bullying only understanding the real worth.
+    - image: /img/02.jpg
+      text: >+
+        Step-2
+
+        Have a story, you think can be helpful and can inspire or encourage millions. Share with us to reach your voice to them, if you see we are interdependent indirectly. Maybe your experience story could be a thing that may fill their gap. Email us your story today at sandeepsirfan@gmail.com
+
+    - image: /img/03.jpg
+      text: >+
+        Step-3
+
+        As your story reaches us it goes through a simple review process. The story gets thoroughly read, in order to clarify that it doesn't hurt the sentiments of the readers and to avoid the inconvenience that could be faced by them.
+
+    - image: /img/04.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Step-4
+
+        As your story passes the review process and is ready for the readers. It is published in the community respective of its category.
+
+        .
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "Kaldi is the ultimate spot for coffee lovers who want to learn
+    about their java’s origin and support the farmers that grew it. We take
+    coffee production, roasting and brewing seriously and we’re glad to pass
+    that knowledge to anyone. This is "
 main:
   heading: Great coffee with no compromises
   description: >
@@ -59,12 +50,12 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: motivational quotes
+    image: /img/content-1.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: motivational quotes
+    image: /img/content-2.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: aasaan hai
+    image: /img/logo.png
 ---
