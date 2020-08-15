@@ -29,24 +29,25 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
+                  <p style={{fontFamily:'Poppins'}} className="post-meta">
                     <Link
+                    style={{fontFamily:'Poppins'}}
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
+                    <span style={{fontFamily:'Poppins'}} className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}
                     </span>
                   </p>
                 </header>
-                <p>
+                <p style={{fontFamily:'Poppins'}}>
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
+                  <Link style={{fontFamily:'Poppins'}} className="button" to={post.fields.slug}>
                     Keep Reading →
                   </Link>
                 </p>

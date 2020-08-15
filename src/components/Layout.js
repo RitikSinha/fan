@@ -39,7 +39,7 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
-
+        <meta name="p:domain_verify" content="bb1fea2d4fe6798e8b4a60dcb78bbcf6"/>
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
