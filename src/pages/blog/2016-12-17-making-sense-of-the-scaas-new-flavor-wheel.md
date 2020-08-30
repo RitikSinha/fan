@@ -1,33 +1,71 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: How friendship changed my life.
+date: 2020-08-30T06:22:09.047Z
+description: Hi readers, I am Piyush. This story is all about how friendship
+  changed my life. This particular incident goes back to 2018 when I was in my
+  12th standard.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/hu-chen-fz0qzjvf_-c-unsplash-min.jpg
 tags:
-  - flavor
-  - tasting
+  - story
+  - friendship
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Hi readers, I am Piyush. This story is all about how friendship changed my life. This particular incident goes back to 2018 when I was in my 12th standard. Back then, I was just a normal kid. I didn't have any plans for my future. Didn't know what interests me, wasn't good in studies either.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Back then, I had few friends (still have only a few), but everyone was in a similar situation as me.
 
-## What the updates mean to you
+Then one day, my school friend (Aayush: name changed) called me and we chatted for a while. He was interested in startups and tech and was learning new skills regularly. That day, something hit me hard. Aayush suggested me to gain real-life skills and work on improving myself instead of wasting my time doing nothing.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+One lesson I wanted to share here from that conversation we had a couple of years back. It's about finding what interests you. It's about finding your passion.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+
+But lets first see why finding your passion is important. Your passion is what separates you from the rest. If you're passionate about let's say music, then nothing can stop you from learning music and putting yourself out there. Ex. ( The secret superstar movie ).
+
+Some questions to help you figure out your passion.
+
+* What work would you do if you had all the money and time in your life?
+* What work would you do every day for the rest of your life?
+* What interests you?
+* What are you curious about?
+
+These are some of the questions which helped me figure out mine.
+
+
+
+Since the day I found out my passion, I've been working on it daily. I started learning skills related to designing. I started watching youtube videos, done some courses, read some books.
+
+My passion was designing. So, I started to dive deep into this field after my 12th board. And now all I do is improve myself.
+
+I regularly improve ( or at least try to improve) my skills, my knowledge, and work on reaching my fullest potential.
+
+
+
+Now, We are a group of 4 guys (Aayush is one of them) who share a similar mindset and talk about ideas. We don't have everything figured out, but at least we believe that we will figure it out.
+
+
+
+So, what changed? My perspective towards my life.
+
+I still don't know what my life is all about, but I work on reaching my fullest potential because it sounds good.
+
+
+
+So, that was one of my experiences I wanted to share with you guys. I'm not saying just by hanging out with the right people would make all the difference. Of course, you'll have to put in the effort.
+
+But there is a saying that you're the average of the 5 guys you hang out with, and mathematics doesn't lie.
+
+
+
+Thanks for reading.
+
+Keep working on yourself.
+
+\-Piyush Kumar.
+
+*
